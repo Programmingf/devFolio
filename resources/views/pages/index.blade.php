@@ -17,4 +17,4 @@
 @endsection
 
 @section('page-script')
-@endsection
+@endsection 
